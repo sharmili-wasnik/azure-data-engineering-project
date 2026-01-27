@@ -1,0 +1,11 @@
+Data Source (CSV)
+        ↓
+Azure Data Factory (Ingestion)
+        ↓
+Azure Data Lake (Raw Layer)
+        ↓
+Azure Databricks (PySpark Transformations)
+        ↓
+Delta Lake (Curated Layer)
+        ↓
+SQL Analytics / Reporting
