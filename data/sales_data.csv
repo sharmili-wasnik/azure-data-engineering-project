@@ -1,0 +1,6 @@
+order_id,customer,product,category,price,quantity,order_date,country
+1001,John,Laptop,Electronics,60000,1,2023-01-10,India
+1002,Asha,Phone,Electronics,25000,2,2023-01-12,India
+1003,Rahul,Headphones,Accessories,2000,3,2023-01-15,India
+1004,Maria,Tablet,Electronics,30000,1,2023-01-18,USA
+1005,David,Monitor,Electronics,15000,2,2023-01-20,USA
