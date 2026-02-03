@@ -27,7 +27,7 @@ driver_manager = spark._sc._gateway.jvm.java.sql.DriverManager
 
 # COMMAND ----------
 
-# DBTITLE 1,Widget creation
+# DBTITLE 1,Widget creation :
 dbutils.widgets.removeAll()
 dbutils.widgets.text("jdbcHostname","")
 dbutils.widgets.text("jdbcPort","")
